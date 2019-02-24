@@ -1408,7 +1408,8 @@ en4098718l.cidse.dhcp.asu.edu
 [lab_ylee1]
 
 # hostname here
-en4098662l.cidse.dhcp.asu.edu
+# Not reachable (need to troubleshoot) probably turned off
+#en4098662l.cidse.dhcp.asu.edu
 EN4098653LVM.cidse.dhcp.asu.edu
 
 
