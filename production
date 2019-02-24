@@ -355,7 +355,8 @@ en4119756l.cidse.dhcp.asu.edu
 
 en4066167L.cidse.dhcp.asu.edu
 
-en4073438L.cidse.dhcp.asu.edu
+# Could not resolve
+#en4073438L.cidse.dhcp.asu.edu
 
 en4119625L.cidse.dhcp.asu.edu
 
@@ -366,8 +367,8 @@ en4119625L.cidse.dhcp.asu.edu
 [lab_caroleje]
 
 # hostname here
-
-en4109559l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4109559l.cidse.dhcp.asu.edu
 
 
 
@@ -377,7 +378,8 @@ en4109559l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4046086l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4046086l.cidse.dhcp.asu.edu
 
 en4067803l.cidse.dhcp.asu.edu
 
@@ -467,9 +469,11 @@ en4079604l.cidse.dhcp.asu.edu
 # Timing out and needs investigation
 #en4081447l.cidse.dhcp.asu.edu
 
-en4081624l.cidse.dhcp.asu.edu
+# Host not found
+#en4081624l.cidse.dhcp.asu.edu
 
-en4081645l.cidse.dhcp.asu.edu
+# Causing hanging issue
+#en4081645l.cidse.dhcp.asu.edu
 
 
 
@@ -489,7 +493,8 @@ en4081645l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4146357l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4146357l.cidse.dhcp.asu.edu
 
 
 
@@ -571,16 +576,20 @@ en4146357l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4058634l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4058634l.cidse.dhcp.asu.edu
 
-en4113746l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4113746l.cidse.dhcp.asu.edu
 
-en4119298l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4119298l.cidse.dhcp.asu.edu
 
 # Unreachable and job was hanging
 #en4119412l.cidse.dhcp.asu.edu
 
-en4129777l.cidse.dhcp.asu.edu
+# Could not resolve
+# en4129777l.cidse.dhcp.asu.edu
 
 
 
@@ -638,20 +647,23 @@ en4129777l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4119351l.cidse.dhcp.asu.edu
-
-en4146387l.cidse.dhcp.asu.edu
-EN4166249L.cidse.dhcp.asu.edu
-EN4166246L.cidse.dhcp.asu.edu
-EN4166247L.cidse.dhcp.asu.edu
-EN4166248L.cidse.dhcp.asu.edu
+# ALL UNREACHABLE
+#en4119351l.cidse.dhcp.asu.edu
+# en4146387l.cidse.dhcp.asu.edu
+# EN4166249L.cidse.dhcp.asu.edu
+# EN4166246L.cidse.dhcp.asu.edu
+# Could not resolve hostname
+# EN4166247L.cidse.dhcp.asu.edu
+# Could not resolve hostname
+# EN4166248L.cidse.dhcp.asu.edu
 
 [lab_hdavulcu]
 
 # hostname here
 
 en4119614l.cidse.dhcp.asu.edu
-en4109571l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4109571l.cidse.dhcp.asu.edu
 
 
 
@@ -826,7 +838,8 @@ en4102931l.cidse.dhcp.asu.edu
 
 # hostnames here
 
-ubuntu-test2.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#ubuntu-test2.cidse.dhcp.asu.edu
 
 
 
@@ -1027,8 +1040,8 @@ en4102944l.cidse.dhcp.asu.edu
 [lab_pshakari]
 
 # hostname here
-
-en4129780l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4129780l.cidse.dhcp.asu.edu
 
 
 
@@ -1134,17 +1147,19 @@ en4129780l.cidse.dhcp.asu.edu
 
 # hostnames here
 
-en4073436l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4073436l.cidse.dhcp.asu.edu
 
-en4119688l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4119688l.cidse.dhcp.asu.edu
 
 en4166269l.cidse.dhcp.asu.edu
 
 en4146246l.cidse.dhcp.asu.edu
 
 en4146263l.cidse.dhcp.asu.edu
-
-en4146272l.cidse.dhcp.asu.edu
+# Rogue techs account
+#en4146272l.cidse.dhcp.asu.edu
 
 en4146273l.cidse.dhcp.asu.edu
 
@@ -1158,7 +1173,8 @@ en4146274l.cidse.dhcp.asu.edu
 
 en4166269l.cidse.dhcp.asu.edu
 
-en4166270l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4166270l.cidse.dhcp.asu.edu
 
 
 
@@ -1168,7 +1184,8 @@ en4166270l.cidse.dhcp.asu.edu
 
 # hostnames here
 
-en4081617l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4081617l.cidse.dhcp.asu.edu
 
 en4110001l.cidse.dhcp.asu.edu
 
@@ -1176,21 +1193,27 @@ en4110026l.cidse.dhcp.asu.edu
 
 en4110035l.cidse.dhcp.asu.edu
 
-en4113963l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+# en4113963l.cidse.dhcp.asu.edu
 
 en4113965l.cidse.dhcp.asu.edu
 
-en4119538l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4119538l.cidse.dhcp.asu.edu
 
-en4129786l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4129786l.cidse.dhcp.asu.edu
 
-en4146008l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4146008l.cidse.dhcp.asu.edu
 
 en4146260l.cidse.dhcp.asu.edu
 
-en4146339l.cidse.dhcp.asu.edu
+# Rogue techs account
+#en4146339l.cidse.dhcp.asu.edu
 
-en4146344l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4146344l.cidse.dhcp.asu.edu
 
 en4146411l.cidse.dhcp.asu.edu
 
@@ -1213,7 +1236,8 @@ en4146412l.cidse.dhcp.asu.edu
 [lab_skgupta]
 
 # hostname here
-en4081589l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4081589l.cidse.dhcp.asu.edu
 
 
 
@@ -1244,7 +1268,8 @@ en4081589l.cidse.dhcp.asu.edu
 
 en4146345l.cidse.dhcp.asu.edu
 
-en4085049l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4085049l.cidse.dhcp.asu.edu
 
 
 
@@ -1254,11 +1279,14 @@ en4085049l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4119695l.cidse.dhcp.asu.edu
+# Not able to resolve
+#en4119695l.cidse.dhcp.asu.edu
 
-en4102914l.cidse.dhcp.asu.edu
+# Not able to resolve hostname
+#en4102914l.cidse.dhcp.asu.edu
 
-en4166275l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4166275l.cidse.dhcp.asu.edu
 
 en4119721l.cidse.dhcp.asu.edu
 
@@ -1280,16 +1308,19 @@ en4119721l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4098711l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4098711l.cidse.dhcp.asu.edu
 
 # Jon: Hey these (all in this section) IPs need to be investigated as to what they are (and probably just removed)
 # 10.218.108.80
 
-en4098717l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4098717l.cidse.dhcp.asu.edu
 
 #10.218.108.232
 
-en4098718l.cidse.dhcp.asu.edu
+# Could not resolve
+# en4098718l.cidse.dhcp.asu.edu
 
 #10.218.105.147
 
@@ -1412,7 +1443,9 @@ en4098718l.cidse.dhcp.asu.edu
 # hostname here
 # Not reachable (need to troubleshoot) probably turned off
 #en4098662l.cidse.dhcp.asu.edu
-EN4098653LVM.cidse.dhcp.asu.edu
+
+# Could not resolve
+#EN4098653LVM.cidse.dhcp.asu.edu
 
 
 
@@ -1445,7 +1478,8 @@ EN4098653LVM.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4119459l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4119459l.cidse.dhcp.asu.edu
 # Check and remove? (We dont want to use IPs)
 #10.218.104.173
 
@@ -1456,7 +1490,8 @@ en4119459l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4119642l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4119642l.cidse.dhcp.asu.edu
 
 
 #10.218.107.199
@@ -1483,7 +1518,8 @@ en4146399l.cidse.dhcp.asu.edu
 
 #hostnames here
 
-en4119387l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4119387l.cidse.dhcp.asu.edu
 
 
 
@@ -1492,10 +1528,13 @@ en4119387l.cidse.dhcp.asu.edu
 #CIDSE IT systems used to test production config
 
 #hostnames here
-en4119368l.cidse.dhcp.asu.edu
+
+# Could not resolve
+#en4119368l.cidse.dhcp.asu.edu
 # We need to remove this IP as well
 #10.218.111.203
-en4090392l.cidse.dhcp.asu.edu
+# Could not resolve
+#en4090392l.cidse.dhcp.asu.edu
 
 
 
@@ -1536,9 +1575,13 @@ en4090392l.cidse.dhcp.asu.edu
 [staff_cidseit]
 
 en4061283l.cidse.dhcp.asu.edu
-en4113964l.cidse.dhcp.asu.edu
-en4110031l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4113964l.cidse.dhcp.asu.edu
+# Could not resolve hostname
+#en4110031l.cidse.dhcp.asu.edu
 # Remove this IP
 #10.218.111.63
 #Adding for config, remove later (IP)
-en4098663l.cidse.dhcp.asu.edu
+
+# Could not resolve hostname
+#en4098663l.cidse.dhcp.asu.edu
