@@ -1426,7 +1426,8 @@ EN4098653LVM.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4166079l.cidse.dhcp.asu.edu
+# Need to check this machine
+#en4166079l.cidse.dhcp.asu.edu
 
 
 
@@ -1530,6 +1531,6 @@ en4061283l.cidse.dhcp.asu.edu
 en4113964l.cidse.dhcp.asu.edu
 en4110031l.cidse.dhcp.asu.edu
 # Remove this IP
-10.218.111.63
+#10.218.111.63
 #Adding for config, remove later (IP)
 en4098663l.cidse.dhcp.asu.edu
