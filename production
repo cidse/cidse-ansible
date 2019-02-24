@@ -1275,15 +1275,16 @@ en4119721l.cidse.dhcp.asu.edu
 
 en4098711l.cidse.dhcp.asu.edu
 
-10.218.108.80
+# Jon: Hey these (all in this section) IPs need to be investigated as to what they are (and probably just removed)
+# 10.218.108.80
 
 en4098717l.cidse.dhcp.asu.edu
 
-10.218.108.232
+#10.218.108.232
 
 en4098718l.cidse.dhcp.asu.edu
 
-10.218.105.147
+#10.218.105.147
 
 
 
@@ -1436,7 +1437,8 @@ en4166079l.cidse.dhcp.asu.edu
 # hostname here
 
 en4119459l.cidse.dhcp.asu.edu
-10.218.104.173
+# Check and remove? (We dont want to use IPs)
+#10.218.104.173
 
 
 
@@ -1447,7 +1449,8 @@ en4119459l.cidse.dhcp.asu.edu
 
 en4119642l.cidse.dhcp.asu.edu
 
-10.218.107.199
+
+#10.218.107.199
 
 
 
@@ -1481,7 +1484,8 @@ en4119387l.cidse.dhcp.asu.edu
 
 #hostnames here
 en4119368l.cidse.dhcp.asu.edu
-10.218.111.203
+# We need to remove this IP as well
+#10.218.111.203
 en4090392l.cidse.dhcp.asu.edu
 
 
@@ -1525,6 +1529,7 @@ en4090392l.cidse.dhcp.asu.edu
 en4061283l.cidse.dhcp.asu.edu
 en4113964l.cidse.dhcp.asu.edu
 en4110031l.cidse.dhcp.asu.edu
+# Remove this IP
 10.218.111.63
 #Adding for config, remove later (IP)
 en4098663l.cidse.dhcp.asu.edu
