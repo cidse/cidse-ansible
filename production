@@ -221,7 +221,8 @@ en4119510l.cidse.dhcp.asu.edu
 
 # hostnames here
 
-en4119301l.cidse.dhcp.asu.edu
+# Causing hang in Ansible job (may need reboot)
+#en4119301l.cidse.dhcp.asu.edu
 
 en4146147l.cidse.dhcp.asu.edu
 
