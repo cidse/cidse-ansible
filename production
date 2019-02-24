@@ -383,7 +383,8 @@ en4067808l.cidse.dhcp.asu.edu
 
 en4079604l.cidse.dhcp.asu.edu
 
-en4119421l.cidse.dhcp.asu.edu
+#Timing out and was causing run to hang
+#en4119421l.cidse.dhcp.asu.edu
 
 
 
@@ -461,7 +462,8 @@ en4119421l.cidse.dhcp.asu.edu
 
 # hostname here
 
-en4081447l.cidse.dhcp.asu.edu
+# Timing out and needs investigation
+#en4081447l.cidse.dhcp.asu.edu
 
 en4081624l.cidse.dhcp.asu.edu
 
