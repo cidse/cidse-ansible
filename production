@@ -225,7 +225,8 @@ en4119510l.cidse.dhcp.asu.edu
 # Causing hang in Ansible job (may need reboot)
 #en4119301l.cidse.dhcp.asu.edu
 
-en4146147l.cidse.dhcp.asu.edu
+# Appears to cause Ansible to hang
+#en4146147l.cidse.dhcp.asu.edu
 
 en4146148l.cidse.dhcp.asu.edu
 
