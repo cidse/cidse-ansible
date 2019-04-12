@@ -193,6 +193,29 @@ en4119510l.cidse.dhcp.asu.edu
 
 ####################################################
 
+[lab_subbarao]
+
+# hostname here
+
+# Not able to resolve
+#en4119695l.cidse.dhcp.asu.edu
+
+# Not able to resolve hostname
+#en4102914l.cidse.dhcp.asu.edu
+
+# Could not resolve hostname
+#en4166275l.cidse.dhcp.asu.edu
+
+# Rogue techs account
+#en4119721l.cidse.dhcp.asu.edu
+
+en4166275l.cidse.dhcp.asu.edu
+
+en4166276l.cidse.dhcp.asu.edu
+
+
+
+
 [lab_abanerj3]
 
 # hostnames here
@@ -340,7 +363,8 @@ en4119559l.cidse.dhcp.asu.edu
 en4119340l.etslabs.dhcp.asu.edu
 en4119343l.etslabs.dhcp.asu.edu
 en4119341l.etslabs.dhcp.asu.edu
-en4119342l.etslabs.dhcp.asu.edu
+#comed out
+#en4119342l.etslabs.dhcp.asu.edu
 
 [lab_calliss]
 
@@ -1287,25 +1311,6 @@ en4146345l.cidse.dhcp.asu.edu
 
 
 
-[lab_subbarao]
-
-# hostname here
-
-# Not able to resolve
-#en4119695l.cidse.dhcp.asu.edu
-
-# Not able to resolve hostname
-#en4102914l.cidse.dhcp.asu.edu
-
-# Could not resolve hostname
-#en4166275l.cidse.dhcp.asu.edu
-
-# Rogue techs account
-#en4119721l.cidse.dhcp.asu.edu
-
-en4166275l.cidse.dhcp.asu.edu
-
-en4166276l.cidse.dhcp.asu.edu
 
 
 
